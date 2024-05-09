@@ -46,7 +46,7 @@ const Navbar = () => {
             })}
         </div>
       </div>
-      <button className="uppercase font-mono bg-[#04312c] text-[#1acaa8] px-4 py-3 rounded-md">
+      <button className="uppercase font-mono bg-[#04312c] text-[#1acaa8] px-4 py-3 rounded-md hover:bg-[#173d39]">
         Sign up
       </button>
     </div>
