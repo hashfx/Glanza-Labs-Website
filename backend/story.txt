@@ -1,0 +1,16 @@
+Login
+Signup
+
+confirmation E-mail
+
+Onboarding Form
+Picture
+Display Name
+Username
+Country Dropdown
+City
+Langages Spoken
+About You
+Current Position
+Social Links
+After clicking SUBMIT >> terms and condition page
